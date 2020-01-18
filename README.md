@@ -4,7 +4,7 @@ Project to make a fully functional TCP Chat server in C, along with the client p
 
 In the image,  the bottom terminal is the server, the top two are two clients connected though the server. The two clients send each other greetings. 
 
-
+　
 ![alt text](https://raw.githubusercontent.com/parthnan/FullTCP-Chat-in-C/master/images/4-1-3.png)
 
 
