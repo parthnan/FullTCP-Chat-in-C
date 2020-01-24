@@ -16,6 +16,6 @@ Users can be forced on a 60 second auto-timeout. The Server allows viewing all c
 
 Secret Messages between two users supported too as shown below, between users "one" and "two":
 
-![alt text](https://raw.githubusercontent.com/parthnan/FullTCP-Chat-in-C/master/images/4-2-3.png)
+![alt text](https://raw.githubusercontent.com/parthnan/FullTCP-Chat-in-C/master/images/4-2-3.png) 
 
 
